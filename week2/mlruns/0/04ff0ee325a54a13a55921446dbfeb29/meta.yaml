@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/fedot/Desktop/MLOPS/week2/mlruns/0/04ff0ee325a54a13a55921446dbfeb29/artifacts
+end_time: 1654110276556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 04ff0ee325a54a13a55921446dbfeb29
+run_uuid: 04ff0ee325a54a13a55921446dbfeb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654110258013
+status: 3
+tags: []
+user_id: fedot
